@@ -11,6 +11,10 @@ library(shiny)
 # Number of tweest before and after becoming president
 # Programmatically include original tweets using
 # Timeline with external events
+# Use bsplus carousel
+# Turn into dashboard?
+# Chunk the Twitter query and update DT
+# merge with github repo
 
 shinyUI(fluidPage(
 
